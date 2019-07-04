@@ -29,6 +29,8 @@ function getIt() {
   });
 }
 
+}
+
 getIt();
 frameIt();
 pressIt();
