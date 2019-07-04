@@ -5,8 +5,8 @@ $(document).ready(function(){
 
 function getIt() {
 $('p').on('click', function() {
-  console.log('Hey!')
-})
+  window.alert("Hey!");
+});
 }
 
 
