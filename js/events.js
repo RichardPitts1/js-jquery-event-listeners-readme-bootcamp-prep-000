@@ -1,6 +1,6 @@
 //define functions here
 
-$(document).ready(function(){
+
 
 
 function getIt() {
@@ -29,11 +29,16 @@ function getIt() {
   });
 }
 
-}
 
+
+$(document).ready(function()) {
+  
 getIt();
 frameIt();
 pressIt();
 submitIt();
+
+}
+
 
 
