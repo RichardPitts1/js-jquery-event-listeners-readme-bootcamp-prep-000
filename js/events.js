@@ -31,7 +31,7 @@ function getIt() {
 
 
 
-$(document).ready(function()
+$(document).ready(function() {
   
 getIt();
 frameIt();
@@ -39,5 +39,5 @@ pressIt();
 submitIt();
 
 
-
+});
 
